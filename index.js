@@ -1,0 +1,1 @@
+console.log('Hey!! stgacct02local instance is getting created. ');
